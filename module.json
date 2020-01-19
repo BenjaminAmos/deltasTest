@@ -1,0 +1,14 @@
+{
+    "id" : "deltasTest",
+    "version" : "0.1.0",
+    "displayName" : "deltasTest",
+    "description" : "A module designed to test gestalt's asset delta functionality.",
+    "dependencies" :  [
+        {
+            "id": "engine"
+        },
+        {
+            "id" : "core"
+        }
+    ]
+}
